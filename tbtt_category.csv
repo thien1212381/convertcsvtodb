@@ -1,0 +1,9 @@
+cat_id,cat_name,cat_descr,cat_image,cat_order,cat_status
+1,Điện thoại-MTB,Điện thoại-MTB,icon_category_11.gif,1,1
+2,Đồ chơi-Linh kiện,Đồ chơi-Linh kiện,lt.gif,2,1
+3,Điện tử gia dụng,Điện tử gia dụng,icon_category_25.gif,3,1
+4,Laptop - Decktop,Laptop - Decktop,icon_category_26.gif,4,1
+5,"Thời trang, mua sắm","Thời trang, mua sắm",icon_category_19.gif,5,1
+38,Máy ảnh - Camera,Máy ảnh - Camera,icon_category_08.gif,5,1
+37,Bất động sản,Bất động sản,bds.gif,6,1
+39,Linh Kiện Máy tính,Linh Kiện Máy tính,icon_category_10.gif,5,1

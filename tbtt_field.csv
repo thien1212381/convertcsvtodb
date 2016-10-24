@@ -1,0 +1,38 @@
+fie_id,fie_name,fie_descr,fie_image,fie_order,fie_status
+1,Công nghệ thông tin,Công nghệ thông tin,icon_field_36.gif,1,1
+2,Giáo dục - đào tạo,Giáo dục - đào tạo,icon_field_16.gif,2,1
+3,Báo chí,Báo chí,icon_field_10.gif,3,1
+4,Bảo hiểm,Bảo hiểm,icon_field_08.gif,4,1
+5,Bất động sản,Bất động sản,icon_field_37.gif,5,1
+6,Biên - phiên dịch,Biên - phiên dịch,icon_field_27.gif,6,1
+7,Dịch vụ an ninh,Dịch vụ an ninh,icon_field_38.gif,7,1
+8,Dịch vụ khách hàng,Dịch vụ khách hàng,icon_field_34.gif,8,1
+9,Du lịch,Du lịch,icon_field_18.gif,9,1
+10,Y khoa,Y khoa,icon_field_06.gif,10,1
+11,"Giải trí, nghệ thuật","Giải trí, nghệ thuật",icon_field_20.gif,11,1
+12,Hàng hải,Hàng hải,icon_field_25.gif,12,1
+13,Hàng không,Hàng không,icon_field_04.gif,13,1
+14,Pháp lý,Pháp lý,icon_field_39.gif,14,1
+15,Hành chính,Hành chính,icon_field_13.gif,15,1
+16,Quản lý - điều hành,Quản lý - điều hành,icon_field_07.gif,16,1
+17,Khách sạn - nhà hàng,Khách sạn - nhà hàng,icon_field_15.gif,17,1
+18,"Kinh doanh, bán hàng","Kinh doanh, bán hàng",icon_field_26.gif,18,1
+19,"Tài nguyên, môi trường","Tài nguyên, môi trường",icon_field_14.gif,19,1
+20,Nông nghiệp,Nông nghiệp,icon_field_01.gif,20,1
+21,Công nghiệp,Công nghiệp,icon_field_17.gif,21,1
+22,Cơ khí - kỹ thuật ứng dụng,Cơ khí - kỹ thuật ứng dụng,icon_field_30.gif,22,1
+23,"Dầu khí, khoáng sản","Dầu khí, khoáng sản",icon_field_02.gif,23,1
+24,Hóa sinh,Hóa sinh,icon_field_31.gif,24,1
+25,Kiến trúc,Kiến trúc,icon_field_19.gif,25,1
+26,"Quảng cáo, thiết kế","Quảng cáo, thiết kế",icon_field_28.gif,26,1
+27,Chứng khoán,Chứng khoán,icon_field_03.gif,27,1
+28,"Tài chính, ngân hàng","Tài chính, ngân hàng",icon_field_11.gif,28,1
+29,Thương mại điện tử,Thương mại điện tử,icon_field_29.gif,29,1
+30,Tư vấn,Tư vấn,icon_field_05.gif,30,1
+31,Vận chuyển,Vận chuyển,icon_field_09.gif,31,1
+32,Xây dựng,Xây dựng,icon_field_32.gif,32,1
+33,Xuất nhập khẩu,Xuất nhập khẩu,icon_field_35.gif,33,1
+34,Ngành nghề khác,Ngành nghề khác,icon_field_24.gif,34,1
+35,Nhà đất,Nhà đất,bds.gif,1,1
+36,Linh Tinh,Linh Tinh,lt.gif,38,1
+37,Dịch vụ doanh nghiệp,Dịch vụ doanh nghiệp,dv.jpg,34,1

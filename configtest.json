@@ -1,0 +1,5 @@
+{
+  "database_name" : "tshopdn",
+  "host"          : "localhost",
+  "user"          : "root"
+}

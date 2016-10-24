@@ -1,0 +1,9 @@
+men_id,men_name,men_descr,men_image,men_category,men_order,men_status
+1,Điện thoại-MTB,Điện thoại-MTB,icon_menu_11.gif,1,1,1
+2,Đồ chơi-Linh kiện,Đồ chơi-Linh kiện,lt.gif,2,2,1
+3,Điện tử gia dụng,Điện tử gia dụng,icon_menu_25.gif,3,3,1
+4,Laptop - Decktop,Laptop - Decktop,icon_menu_26.gif,4,4,1
+5,"Thời trang, mua sắm","Thời trang, mua sắm",icon_menu_19.gif,5,5,1
+38,Bất động sản,Bất động sản,bds.gif,37,6,1
+39,Máy ảnh - Camera,Máy ảnh - Camera,icon_menu_17.gif,38,5,1
+40,Linh Kiện Máy tính,Linh Kiện Máy tính,icon_menu_10.gif,39,5,1
