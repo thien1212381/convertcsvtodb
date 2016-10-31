@@ -11,19 +11,9 @@ var connection = mysql.createConnection({
   database  : config.database_name
 });
 connection.connect(function(err){
-  console.log(err);
+  if(err) console.log(err);
   console.log("Connection!!!!");
 });
-/*connection.query('SELECT * FROM tbtt_user',function(err,result){
-  var tables = JSON.parse(JSON.stringify(result));
-  var writer = csvWriter();
-  writer.pipe(fs.createWriteStream('result.csv',{defaultEncoding:'utf8'}));
-  for (table of tables)
-  {
-    console.log(table);
-    writer.write(table);
-  }
-})*/
 console.time('timer');
 connection.query("show tables",function(err,result){
   var tables = JSON.parse(JSON.stringify(result));
